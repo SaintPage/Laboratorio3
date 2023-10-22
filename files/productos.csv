@@ -1,0 +1,4 @@
+id_producto,nombre,cantidad_disponible,cantidad_vendidios,estado,precio,categoria,ml,tipo,gramos,sabor,tamanio,sabor,marca
+12134,"Cocacola",10,3,"true",8.60,"Bebida",860,"gaseosa",,,,,
+32425,"Tortrix",20,10,"true",1.50,"Snack",,,100,"Barbacoa","individual",,
+2345,"Paleta",2,2,"false",2.50,"Dulce",,,,,,"mania","Diana"
